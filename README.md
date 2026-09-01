@@ -1,6 +1,6 @@
 # WooCommerce Advanced Search
 
-> Algolia-powered instant search plugin for WooCommerce — built for NAW Controls (naw.com.au)
+> Algolia-powered instant search plugin for WooCommerce
 
 ![Version](https://img.shields.io/badge/version-1.4.8-blue)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple)
